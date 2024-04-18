@@ -1,0 +1,2 @@
+ErrorCode,Message
+1000,Count + Offset cannot exceed 10000 messages.
